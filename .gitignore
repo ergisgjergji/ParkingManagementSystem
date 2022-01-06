@@ -5,5 +5,6 @@
 *.dgy~
 
 /.vs
+/packages
 /ParkingManagementSystem/bin
 /ParkingManagementSystem/obj
